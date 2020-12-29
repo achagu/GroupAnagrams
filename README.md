@@ -8,3 +8,5 @@ java -jar groupAnagrams.jar
 CAT DOG TAC MAD DAM AMD GOD SET  
 Group Anagrams are [[CAT, TAC], [DOG, GOD], [MAD, DAM, AMD], [SET]]  
 
+Junits are present in TestGroupAnagrams.java
+
